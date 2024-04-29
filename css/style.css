@@ -1014,6 +1014,10 @@ a.btn:focus{
 		margin-bottom: 20px;
 	}
 
+	.me{
+		font-size:40px !important;
+	}
+
 }
 
 @media (max-width:480px) {
